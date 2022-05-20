@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sam Okun samokun@gmail.com
 
 # THANKS
 
