@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please for this repository and then issue Pull requests for review.
 
 ## Copyright
-Copyright stuff
+Copyright stuff.  All Rights reserved.
